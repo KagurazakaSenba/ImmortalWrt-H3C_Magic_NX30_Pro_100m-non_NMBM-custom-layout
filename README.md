@@ -1,1 +1,2 @@
 # ImmortalWrt-H3C_Magic_NX30_Pro_100m-non_NMBM-custom-layout
+基于ImmortalWrt主线的NX30Pro大分区固件。
